@@ -1,0 +1,661 @@
+# index_analysis.log
+2024-08-19 08:54:56,267 - script_logger - INFO - Line: 179 - Analysis of ./app/views.py:
+2024-08-19 08:54:56,267 - script_logger - INFO - Line: 192 - Filesize: 57.4 KiB
+2024-08-19 08:54:56,267 - script_logger - INFO - Line: 193 - Number of lines: 1316
+2024-08-19 08:54:56,268 - script_logger - INFO - Line: 195 - 
+Functions:
+2024-08-19 08:54:56,268 - script_logger - INFO - Line: 204 - - get_options() -> Endpoint (line 61) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,268 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,268 - script_logger - INFO - Line: 204 - - get_rteconv() -> Endpoint (line 71) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,268 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,268 - script_logger - INFO - Line: 204 - - get_demo_flows() -> Endpoint (line 81) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,268 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,268 - script_logger - INFO - Line: 204 - - get_market_quotes() -> Endpoint (line 88) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,268 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,268 - script_logger - INFO - Line: 204 - - get_positions() -> Endpoint (line 94) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,269 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,269 - script_logger - INFO - Line: 204 - - get_conv_des_data() -> Endpoint (line 100) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,269 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,269 - script_logger - INFO - Line: 204 - - get_metrics_comment_data() -> Endpoint (line 106) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,269 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,269 - script_logger - INFO - Line: 204 - - get_acc_options() -> Endpoint (line 112) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,269 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,269 - script_logger - INFO - Line: 204 - - get_modals() -> Endpoint (line 122) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,269 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,269 - script_logger - INFO - Line: 204 - - index() -> Endpoint (line 131) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,269 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,270 - script_logger - INFO - Line: 204 - - update_tables_div1() -> Endpoint (line 204) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,270 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,270 - script_logger - INFO - Line: 204 - - update_tables_div2() -> Endpoint (line 269) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,270 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,270 - script_logger - INFO - Line: 204 - - update_flows() -> Endpoint (line 334) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,270 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,270 - script_logger - INFO - Line: 204 - - update_user_flows() -> Endpoint (line 394) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,270 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,270 - script_logger - INFO - Line: 204 - - use_user_quotes() -> Endpoint (line 472) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,270 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,270 - script_logger - INFO - Line: 204 - - reset_fixing_quotes() -> Endpoint (line 554) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,271 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,271 - script_logger - INFO - Line: 204 - - update_fx_risk() -> Endpoint (line 614) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,271 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,271 - script_logger - INFO - Line: 204 - - generate_graph() -> Endpoint (line 650) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,271 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,271 - script_logger - INFO - Line: 204 - - delete_graph() -> Endpoint (line 664) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,271 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,271 - script_logger - INFO - Line: 204 - - get_service() -> Endpoint (line 675) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,271 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,271 - script_logger - INFO - Line: 204 - - back_to_demo() -> Endpoint (line 682) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,272 - script_logger - INFO - Line: 208 -   Docstring: This...
+2024-08-19 08:54:56,272 - script_logger - INFO - Line: 204 - - get_demo_rteconv() -> Endpoint (line 752) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,272 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,272 - script_logger - INFO - Line: 204 - - demo_accccy() -> Endpoint (line 762) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,272 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,272 - script_logger - INFO - Line: 204 - - demo_file_ext() -> Endpoint (line 772) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,272 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,272 - script_logger - INFO - Line: 204 - - allowed_file(filename) -> Unknown return type (line 781) in views.py
+2024-08-19 08:54:56,272 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,272 - script_logger - INFO - Line: 204 - - send_demo_mail() -> Endpoint (line 787) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,272 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,272 - script_logger - INFO - Line: 204 - - upload_file() -> Endpoint (line 840) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,273 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,273 - script_logger - INFO - Line: 204 - - start_payment() -> Endpoint (line 1059) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,273 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,273 - script_logger - INFO - Line: 204 - - stripe_webhook() -> Endpoint (line 1127) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,273 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,273 - script_logger - INFO - Line: 204 - - payment_success() -> Endpoint (line 1171) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,273 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,273 - script_logger - INFO - Line: 204 - - payment_cancel() -> Endpoint (line 1265) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,273 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,273 - script_logger - INFO - Line: 204 - - retrieve_price_from_redis_for_stripe(customer_email) -> Unknown return type (line 1271) in views.py
+2024-08-19 08:54:56,273 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,274 - script_logger - INFO - Line: 204 - - flask_session_variables() -> Endpoint (line 1286) in views.py (route handler, endpoint)
+2024-08-19 08:54:56,274 - script_logger - INFO - Line: 210 -   Adding a docstring would greatly improve the readability and maintainability of the code.
+2024-08-19 08:54:56,274 - script_logger - INFO - Line: 215 - 
+Classes:
+2024-08-19 08:54:56,274 - script_logger - INFO - Line: 221 - 
+Imports:
+2024-08-19 08:54:56,274 - script_logger - INFO - Line: 223 - - flask.Blueprint (line 1) in views.py
+2024-08-19 08:54:56,274 - script_logger - INFO - Line: 224 -   Documentation: This is a third-party module. Please refer to the package's documentation.
+2024-08-19 08:54:56,274 - script_logger - INFO - Line: 223 - - flask.jsonify (line 1) in views.py
+2024-08-19 08:54:56,274 - script_logger - INFO - Line: 224 -   Documentation: This is a third-party module. Please refer to the package's documentation.
+2024-08-19 08:54:56,274 - script_logger - INFO - Line: 223 - - flask.render_template (line 1) in views.py
+2024-08-19 08:54:56,274 - script_logger - INFO - Line: 224 -   Documentation: This is a third-party module. Please refer to the package's documentation.
+2024-08-19 08:54:56,274 - script_logger - INFO - Line: 223 - - flask.request (line 1) in views.py
+2024-08-19 08:54:56,275 - script_logger - INFO - Line: 224 -   Documentation: This is a third-party module. Please refer to the package's documentation.
+2024-08-19 08:54:56,275 - script_logger - INFO - Line: 223 - - flask.render_template_string (line 1) in views.py
+2024-08-19 08:54:56,275 - script_logger - INFO - Line: 224 -   Documentation: This is a third-party module. Please refer to the package's documentation.
+2024-08-19 08:54:56,275 - script_logger - INFO - Line: 223 - - flask.url_for (line 1) in views.py
+2024-08-19 08:54:56,275 - script_logger - INFO - Line: 224 -   Documentation: This is a third-party module. Please refer to the package's documentation.
+2024-08-19 08:54:56,275 - script_logger - INFO - Line: 223 - - flask.make_response (line 1) in views.py
+2024-08-19 08:54:56,275 - script_logger - INFO - Line: 224 -   Documentation: This is a third-party module. Please refer to the package's documentation.
+2024-08-19 08:54:56,275 - script_logger - INFO - Line: 223 - - app.logger (line 11) in views.py
+2024-08-19 08:54:56,275 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,275 - script_logger - INFO - Line: 223 - - config.session_data_used (line 13) in views.py
+2024-08-19 08:54:56,275 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,276 - script_logger - INFO - Line: 223 - - config.data__byte_size (line 13) in views.py
+2024-08-19 08:54:56,276 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,276 - script_logger - INFO - Line: 223 - - pprint.pformat (line 14) in views.py
+2024-08-19 08:54:56,276 - script_logger - INFO - Line: 224 -   Documentation: https://docs.python.org/3/library/pprint.html
+2024-08-19 08:54:56,276 - script_logger - INFO - Line: 223 - - flask.session (line 16) in views.py
+2024-08-19 08:54:56,276 - script_logger - INFO - Line: 224 -   Documentation: This is a third-party module. Please refer to the package's documentation.
+2024-08-19 08:54:56,276 - script_logger - INFO - Line: 223 - - config.Config (line 17) in views.py
+2024-08-19 08:54:56,276 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,276 - script_logger - INFO - Line: 223 - - config.get_redis_connection (line 17) in views.py
+2024-08-19 08:54:56,276 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,277 - script_logger - INFO - Line: 223 - - config.get_environment (line 17) in views.py
+2024-08-19 08:54:56,277 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,277 - script_logger - INFO - Line: 223 - - copy.deepcopy (line 18) in views.py
+2024-08-19 08:54:56,277 - script_logger - INFO - Line: 224 -   Documentation: https://docs.python.org/3/library/copy.html
+2024-08-19 08:54:56,277 - script_logger - INFO - Line: 223 - - app.python_scripts.background_scripts.utils_graph.generate_plotly_graph (line 19) in views.py
+2024-08-19 08:54:56,277 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,277 - script_logger - INFO - Line: 223 - - app.python_scripts.views_scripts.utils_views (line 20) in views.py
+2024-08-19 08:54:56,277 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,277 - script_logger - INFO - Line: 223 - - app.python_scripts.views_scripts.utils_views_modals.generate_modals (line 21) in views.py
+2024-08-19 08:54:56,277 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,277 - script_logger - INFO - Line: 223 - - app.python_scripts.background_scripts.utils_redis.RedisDataHandler (line 22) in views.py
+2024-08-19 08:54:56,278 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,278 - script_logger - INFO - Line: 223 - - app.python_scripts.background_scripts.utils_redis.get_from_redis (line 22) in views.py
+2024-08-19 08:54:56,278 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,278 - script_logger - INFO - Line: 223 - - app.python_scripts.background_scripts.utils_redis.StoreServiceInfoInRedis (line 22) in views.py
+2024-08-19 08:54:56,278 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,278 - script_logger - INFO - Line: 223 - - app.python_scripts.views_scripts.utils_views.mainflowpos (line 23) in views.py
+2024-08-19 08:54:56,278 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,278 - script_logger - INFO - Line: 223 - - app.python_scripts.views_scripts.utils_views.create_result_dict (line 23) in views.py
+2024-08-19 08:54:56,278 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,278 - script_logger - INFO - Line: 223 - - app.python_scripts.views_scripts.utils_views.rate_conv_description (line 23) in views.py
+2024-08-19 08:54:56,278 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,279 - script_logger - INFO - Line: 223 - - app.python_scripts.views_scripts.utils_views.CompleteResultDict (line 23) in views.py
+2024-08-19 08:54:56,279 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,279 - script_logger - INFO - Line: 223 - - app.python_scripts.views_scripts.utils_views.globalrate (line 23) in views.py
+2024-08-19 08:54:56,279 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,279 - script_logger - INFO - Line: 223 - - app.python_scripts.views_scripts.utils_views.metrics_comment (line 23) in views.py
+2024-08-19 08:54:56,279 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,279 - script_logger - INFO - Line: 223 - - app.python_scripts.background_scripts.build_store_zero_cpn.zero_curve_discount_factor (line 25) in views.py
+2024-08-19 08:54:56,279 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,279 - script_logger - INFO - Line: 223 - - werkzeug.utils.secure_filename (line 27) in views.py
+2024-08-19 08:54:56,279 - script_logger - INFO - Line: 224 -   Documentation: This is a third-party module. Please refer to the package's documentation.
+2024-08-19 08:54:56,279 - script_logger - INFO - Line: 223 - - email_validator.validate_email (line 28) in views.py
+2024-08-19 08:54:56,280 - script_logger - INFO - Line: 224 -   Documentation: This is a third-party module. Please refer to the package's documentation.
+2024-08-19 08:54:56,280 - script_logger - INFO - Line: 223 - - email_validator.EmailNotValidError (line 28) in views.py
+2024-08-19 08:54:56,280 - script_logger - INFO - Line: 224 -   Documentation: This is a third-party module. Please refer to the package's documentation.
+2024-08-19 08:54:56,280 - script_logger - INFO - Line: 223 - - app.python_scripts.service_scripts.demo.main_demo (line 29) in views.py
+2024-08-19 08:54:56,280 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,280 - script_logger - INFO - Line: 223 - - app.python_scripts.service_scripts.service.main_service (line 30) in views.py
+2024-08-19 08:54:56,280 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,280 - script_logger - INFO - Line: 223 - - app.python_scripts.service_scripts.service.main_service_after_payment (line 30) in views.py
+2024-08-19 08:54:56,280 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,280 - script_logger - INFO - Line: 223 - - app.python_scripts.service_scripts.service.main_service_after_payment_bypassed (line 30) in views.py
+2024-08-19 08:54:56,280 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,281 - script_logger - INFO - Line: 223 - - stripe (line 33) in views.py
+2024-08-19 08:54:56,281 - script_logger - INFO - Line: 224 -   Documentation: This is a third-party module. Please refer to the package's documentation.
+2024-08-19 08:54:56,281 - script_logger - INFO - Line: 223 - - time (line 34) in views.py
+2024-08-19 08:54:56,281 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,281 - script_logger - INFO - Line: 223 - - json (line 35) in views.py
+2024-08-19 08:54:56,281 - script_logger - INFO - Line: 224 -   Documentation: https://docs.python.org/3/library/json.html
+2024-08-19 08:54:56,281 - script_logger - INFO - Line: 223 - - os (line 38) in views.py
+2024-08-19 08:54:56,281 - script_logger - INFO - Line: 224 -   Documentation: https://docs.python.org/3/library/os.html
+2024-08-19 08:54:56,281 - script_logger - INFO - Line: 223 - - datetime.datetime (line 41) in views.py
+2024-08-19 08:54:56,281 - script_logger - INFO - Line: 224 -   Documentation: https://docs.python.org/3/library/datetime.html
+2024-08-19 08:54:56,281 - script_logger - INFO - Line: 223 - - app.create_app (line 1311) in views.py
+2024-08-19 08:54:56,282 - script_logger - INFO - Line: 224 -   Documentation: This is a custom module within the project.
+2024-08-19 08:54:56,282 - script_logger - INFO - Line: 226 - 
+Variables:
+2024-08-19 08:54:56,282 - script_logger - INFO - Line: 229 - - stripe (in views.py):
+2024-08-19 08:54:56,282 - script_logger - INFO - Line: 235 -   stripe is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,282 - script_logger - INFO - Line: 239 -   Used on lines: 47, 48, 49, 1081, 1109, 1134, 1135, 1156
+2024-08-19 08:54:56,282 - script_logger - INFO - Line: 229 - - os (in views.py):
+2024-08-19 08:54:56,282 - script_logger - INFO - Line: 235 -   os is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,282 - script_logger - INFO - Line: 239 -   Used on lines: 47, 48, 49, 654, 665, 666, 667, 874, 876, 907, 907, 975, 975, 984, 984, 993, 993
+2024-08-19 08:54:56,282 - script_logger - INFO - Line: 229 - - bp (in views.py):
+2024-08-19 08:54:56,282 - script_logger - INFO - Line: 233 -   Defined on lines: 52
+2024-08-19 08:54:56,283 - script_logger - INFO - Line: 239 -   Used on lines: 60, 70, 80, 87, 93, 99, 105, 111, 121, 130, 203, 268, 333, 393, 471, 553, 613, 649, 663, 674, 681, 751, 761, 771, 786, 839, 1058, 1126, 1170, 1264, 1285
+2024-08-19 08:54:56,283 - script_logger - INFO - Line: 229 - - Blueprint (in views.py):
+2024-08-19 08:54:56,283 - script_logger - INFO - Line: 235 -   Blueprint is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,283 - script_logger - INFO - Line: 239 -   Used on lines: 52
+2024-08-19 08:54:56,283 - script_logger - INFO - Line: 229 - - __name__ (in views.py):
+2024-08-19 08:54:56,283 - script_logger - INFO - Line: 235 -   __name__ is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,283 - script_logger - INFO - Line: 239 -   Used on lines: 52, 1310
+2024-08-19 08:54:56,283 - script_logger - INFO - Line: 229 - - env (in views.py):
+2024-08-19 08:54:56,283 - script_logger - INFO - Line: 233 -   Defined on lines: 54
+2024-08-19 08:54:56,283 - script_logger - INFO - Line: 239 -   Used on lines: 55
+2024-08-19 08:54:56,283 - script_logger - INFO - Line: 229 - - get_environment (in views.py):
+2024-08-19 08:54:56,284 - script_logger - INFO - Line: 235 -   get_environment is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,284 - script_logger - INFO - Line: 239 -   Used on lines: 54
+2024-08-19 08:54:56,284 - script_logger - INFO - Line: 229 - - r (in views.py):
+2024-08-19 08:54:56,284 - script_logger - INFO - Line: 233 -   Defined on lines: 55
+2024-08-19 08:54:56,284 - script_logger - INFO - Line: 239 -   Used on lines: 1020, 1062, 1131, 1180, 1272
+2024-08-19 08:54:56,284 - script_logger - INFO - Line: 229 - - get_redis_connection (in views.py):
+2024-08-19 08:54:56,284 - script_logger - INFO - Line: 235 -   get_redis_connection is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,284 - script_logger - INFO - Line: 239 -   Used on lines: 55
+2024-08-19 08:54:56,284 - script_logger - INFO - Line: 229 - - option_html (in views.py):
+2024-08-19 08:54:56,284 - script_logger - INFO - Line: 233 -   Defined on lines: 63, 73, 114, 754, 764, 774
+2024-08-19 08:54:56,285 - script_logger - INFO - Line: 239 -   Used on lines: 67, 77, 118, 758, 768, 778
+2024-08-19 08:54:56,293 - script_logger - INFO - Line: 229 - - option (in views.py):
+2024-08-19 08:54:56,293 - script_logger - INFO - Line: 233 -   Defined on lines: 65, 75, 116, 756, 766, 776
+2024-08-19 08:54:56,294 - script_logger - INFO - Line: 239 -   Used on lines: 64, 64, 74, 74, 115, 115, 755, 755, 765, 765, 775, 775
+2024-08-19 08:54:56,294 - script_logger - INFO - Line: 229 - - Config (in views.py):
+2024-08-19 08:54:56,294 - script_logger - INFO - Line: 235 -   Config is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,294 - script_logger - INFO - Line: 239 -   Used on lines: 65, 75, 90, 96, 101, 107, 116, 153, 157, 162, 163, 188, 189, 190, 191, 198, 216, 220, 225, 226, 254, 257, 284, 287, 291, 292, 320, 347, 350, 354, 355, 380, 421, 425, 428, 432, 433, 458, 483, 486, 513, 514, 540, 565, 568, 573, 574, 600, 652, 654, 665, 697, 701, 706, 707, 737, 756, 766, 776, 783, 842, 843, 873, 960, 979, 988, 997, 1004, 1004, 1007, 1007, 1068
+2024-08-19 08:54:56,294 - script_logger - INFO - Line: 229 - - json (in views.py):
+2024-08-19 08:54:56,294 - script_logger - INFO - Line: 235 -   json is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,294 - script_logger - INFO - Line: 239 -   Used on lines: 84, 90, 96, 1191
+2024-08-19 08:54:56,294 - script_logger - INFO - Line: 229 - - session (in views.py):
+2024-08-19 08:54:56,294 - script_logger - INFO - Line: 233 -   Defined on lines: 1139
+2024-08-19 08:54:56,294 - script_logger - INFO - Line: 239 -   Used on lines: 84, 145, 154, 178, 187, 206, 207, 213, 217, 242, 272, 273, 274, 281, 308, 336, 338, 339, 343, 368, 400, 402, 403, 446, 474, 476, 477, 480, 528, 556, 558, 559, 562, 588, 616, 617, 618, 687, 688, 694, 698, 723, 798, 799, 800, 801, 803, 804, 805, 806, 817, 818, 819, 820, 854, 905, 936, 1011, 1060, 1140, 1142, 1147, 1150, 1174, 1298
+2024-08-19 08:54:56,295 - script_logger - INFO - Line: 229 - - conv_des (in views.py):
+2024-08-19 08:54:56,295 - script_logger - INFO - Line: 233 -   Defined on lines: 101, 183, 252, 318, 378, 456, 538, 598, 733
+2024-08-19 08:54:56,295 - script_logger - INFO - Line: 239 -   Used on lines: 102, 191, 262, 327, 387, 465, 547, 607, 742
+2024-08-19 08:54:56,295 - script_logger - INFO - Line: 229 - - jsonify (in views.py):
+2024-08-19 08:54:56,295 - script_logger - INFO - Line: 235 -   jsonify is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,295 - script_logger - INFO - Line: 239 -   Used on lines: 102, 108, 124, 660, 1152, 1155, 1157
+2024-08-19 08:54:56,295 - script_logger - INFO - Line: 229 - - metricscomment (in views.py):
+2024-08-19 08:54:56,295 - script_logger - INFO - Line: 233 -   Defined on lines: 107, 182, 253, 319, 379, 457, 539, 599, 734
+2024-08-19 08:54:56,295 - script_logger - INFO - Line: 239 -   Used on lines: 108, 190, 263, 328, 388, 466, 548, 608, 743
+2024-08-19 08:54:56,295 - script_logger - INFO - Line: 229 - - modals (in views.py):
+2024-08-19 08:54:56,295 - script_logger - INFO - Line: 233 -   Defined on lines: 123
+2024-08-19 08:54:56,295 - script_logger - INFO - Line: 239 -   Used on lines: 124
+2024-08-19 08:54:56,296 - script_logger - INFO - Line: 229 - - generate_modals (in views.py):
+2024-08-19 08:54:56,296 - script_logger - INFO - Line: 235 -   generate_modals is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,296 - script_logger - INFO - Line: 239 -   Used on lines: 123
+2024-08-19 08:54:56,296 - script_logger - INFO - Line: 229 - - default_values (in views.py):
+2024-08-19 08:54:56,296 - script_logger - INFO - Line: 233 -   Defined on lines: 134
+2024-08-19 08:54:56,296 - script_logger - INFO - Line: 239 -   Used on lines: 143
+2024-08-19 08:54:56,296 - script_logger - INFO - Line: 229 - - key (in views.py):
+2024-08-19 08:54:56,296 - script_logger - INFO - Line: 233 -   Defined on lines: 143, 408, 490, 1298
+2024-08-19 08:54:56,296 - script_logger - INFO - Line: 239 -   Used on lines: 145, 409, 491, 1299
+2024-08-19 08:54:56,296 - script_logger - INFO - Line: 229 - - default_value (in views.py):
+2024-08-19 08:54:56,296 - script_logger - INFO - Line: 233 -   Defined on lines: 143
+2024-08-19 08:54:56,297 - script_logger - INFO - Line: 239 -   Used on lines: 145
+2024-08-19 08:54:56,297 - script_logger - INFO - Line: 229 - - flows_str_list (in views.py):
+2024-08-19 08:54:56,297 - script_logger - INFO - Line: 233 -   Defined on lines: 150, 213, 281, 341, 407, 480, 562, 694
+2024-08-19 08:54:56,297 - script_logger - INFO - Line: 239 -   Used on lines: 165, 187, 228, 294, 343, 357, 419, 421, 435, 517, 577, 709
+2024-08-19 08:54:56,297 - script_logger - INFO - Line: 229 - - utils_views (in views.py):
+2024-08-19 08:54:56,297 - script_logger - INFO - Line: 235 -   utils_views is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,297 - script_logger - INFO - Line: 239 -   Used on lines: 150, 341
+2024-08-19 08:54:56,297 - script_logger - INFO - Line: 229 - - positiondisplay_type (in views.py):
+2024-08-19 08:54:56,297 - script_logger - INFO - Line: 233 -   Defined on lines: 151, 214, 282, 345, 423, 481, 563, 695
+2024-08-19 08:54:56,297 - script_logger - INFO - Line: 239 -   Used on lines: 166, 176, 181, 229, 240, 245, 295, 306, 311, 358, 366, 371, 436, 444, 449, 518, 526, 531, 578, 586, 591, 710, 721, 726
+2024-08-19 08:54:56,297 - script_logger - INFO - Line: 229 - - marketrate_type (in views.py):
+2024-08-19 08:54:56,298 - script_logger - INFO - Line: 233 -   Defined on lines: 152, 215, 283, 346, 424, 482, 564, 696
+2024-08-19 08:54:56,298 - script_logger - INFO - Line: 239 -   Used on lines: 166, 175, 229, 239, 295, 305, 358, 365, 436, 443, 518, 525, 578, 585, 710, 720
+2024-08-19 08:54:56,298 - script_logger - INFO - Line: 229 - - tradingdate (in views.py):
+2024-08-19 08:54:56,298 - script_logger - INFO - Line: 233 -   Defined on lines: 153, 216, 284, 347, 425, 483, 565, 697
+2024-08-19 08:54:56,298 - script_logger - INFO - Line: 239 -   Used on lines: 165, 181, 198, 228, 245, 257, 294, 311, 357, 371, 435, 449, 517, 531, 577, 591, 709, 726, 737
+2024-08-19 08:54:56,298 - script_logger - INFO - Line: 229 - - datetime (in views.py):
+2024-08-19 08:54:56,298 - script_logger - INFO - Line: 235 -   datetime is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,298 - script_logger - INFO - Line: 239 -   Used on lines: 153, 157, 162, 163, 198, 216, 220, 225, 226, 257, 284, 287, 291, 292, 347, 350, 354, 355, 412, 425, 428, 432, 433, 483, 486, 513, 514, 565, 568, 573, 574, 697, 701, 706, 707, 737, 842, 843, 947, 960
+2024-08-19 08:54:56,298 - script_logger - INFO - Line: 229 - - get_from_redis (in views.py):
+2024-08-19 08:54:56,298 - script_logger - INFO - Line: 235 -   get_from_redis is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,299 - script_logger - INFO - Line: 239 -   Used on lines: 153, 155, 156, 157, 159, 171, 216, 218, 219, 220, 222, 235, 284, 285, 286, 287, 288, 301, 347, 348, 349, 350, 351, 361, 425, 426, 427, 428, 429, 439, 483, 484, 485, 486, 487, 521, 565, 566, 567, 568, 569, 581, 619, 697, 699, 700, 701, 703, 716, 842, 843
+2024-08-19 08:54:56,299 - script_logger - INFO - Line: 229 - - generator (in views.py):
+2024-08-19 08:54:56,299 - script_logger - INFO - Line: 233 -   Defined on lines: 154, 217, 275, 339, 403, 477, 559, 698
+2024-08-19 08:54:56,299 - script_logger - INFO - Line: 239 -   Used on lines: 165, 174, 181, 183, 228, 238, 245, 252, 294, 304, 311, 318, 357, 364, 371, 378, 435, 442, 449, 456, 517, 524, 531, 538, 577, 584, 591, 598, 709, 719, 726, 733
+2024-08-19 08:54:56,299 - script_logger - INFO - Line: 229 - - on_df (in views.py):
+2024-08-19 08:54:56,299 - script_logger - INFO - Line: 233 -   Defined on lines: 155, 218, 285, 348, 426, 484, 566, 699
+2024-08-19 08:54:56,299 - script_logger - INFO - Line: 239 -   Used on lines: 166, 230, 296, 358, 436, 518, 578, 711
+2024-08-19 08:54:56,299 - script_logger - INFO - Line: 229 - - spot_df (in views.py):
+2024-08-19 08:54:56,299 - script_logger - INFO - Line: 233 -   Defined on lines: 156, 219, 286, 349, 427, 485, 567, 700
+2024-08-19 08:54:56,299 - script_logger - INFO - Line: 239 -   Used on lines: 167, 231, 297, 359, 437, 519, 579, 712
+2024-08-19 08:54:56,306 - script_logger - INFO - Line: 229 - - spotdate (in views.py):
+2024-08-19 08:54:56,306 - script_logger - INFO - Line: 233 -   Defined on lines: 157, 220, 287, 350, 428, 486, 568, 701
+2024-08-19 08:54:56,306 - script_logger - INFO - Line: 239 -   Used on lines: 165, 181, 228, 245, 294, 311, 357, 371, 435, 449, 517, 531, 577, 591, 709, 726
+2024-08-19 08:54:56,306 - script_logger - INFO - Line: 229 - - zerocurve_str_list (in views.py):
+2024-08-19 08:54:56,306 - script_logger - INFO - Line: 233 -   Defined on lines: 159, 222, 288, 351, 429, 487, 569, 703
+2024-08-19 08:54:56,306 - script_logger - INFO - Line: 239 -   Used on lines: 160, 176, 223, 240, 289, 306, 352, 366, 430, 444, 497, 571, 586, 704, 721
+2024-08-19 08:54:56,306 - script_logger - INFO - Line: 229 - - zerocurve_dt_list (in views.py):
+2024-08-19 08:54:56,307 - script_logger - INFO - Line: 233 -   Defined on lines: 160, 223, 289, 352, 430, 511, 571, 704
+2024-08-19 08:54:56,307 - script_logger - INFO - Line: 239 -   Used on lines: 161, 166, 224, 229, 290, 295, 353, 358, 431, 436, 512, 518, 572, 578, 705, 710
+2024-08-19 08:54:56,307 - script_logger - INFO - Line: 229 - - deepcopy (in views.py):
+2024-08-19 08:54:56,307 - script_logger - INFO - Line: 235 -   deepcopy is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,307 - script_logger - INFO - Line: 239 -   Used on lines: 160, 223, 289, 352, 430, 511, 571, 704
+2024-08-19 08:54:56,307 - script_logger - INFO - Line: 229 - - item (in views.py):
+2024-08-19 08:54:56,307 - script_logger - INFO - Line: 233 -   Defined on lines: 161, 224, 290, 353, 418, 431, 498, 512, 572, 705
+2024-08-19 08:54:56,307 - script_logger - INFO - Line: 239 -   Used on lines: 162, 162, 163, 163, 225, 225, 226, 226, 291, 291, 292, 292, 354, 354, 355, 355, 419, 432, 432, 433, 433, 499, 501, 504, 513, 513, 514, 514, 573, 573, 574, 574, 706, 706, 707, 707
+2024-08-19 08:54:56,307 - script_logger - INFO - Line: 229 - - flows_implied_positions_data (in views.py):
+2024-08-19 08:54:56,307 - script_logger - INFO - Line: 233 -   Defined on lines: 165, 228, 294, 357, 435, 517, 577, 709
+2024-08-19 08:54:56,307 - script_logger - INFO - Line: 239 -   Used on lines: 173, 237, 303, 363, 441, 523, 583, 718
+2024-08-19 08:54:56,308 - script_logger - INFO - Line: 229 - - mainflowpos (in views.py):
+2024-08-19 08:54:56,308 - script_logger - INFO - Line: 235 -   mainflowpos is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,308 - script_logger - INFO - Line: 239 -   Used on lines: 165, 228, 294, 357, 435, 517, 577, 709
+2024-08-19 08:54:56,308 - script_logger - INFO - Line: 229 - - fx_conv_risk (in views.py):
+2024-08-19 08:54:56,308 - script_logger - INFO - Line: 233 -   Defined on lines: 168, 232, 298, 360, 438, 520, 580, 713
+2024-08-19 08:54:56,308 - script_logger - INFO - Line: 239 -   Used on lines: 173, 237, 303, 363, 441, 523, 583, 718
+2024-08-19 08:54:56,308 - script_logger - INFO - Line: 229 - - ccy (in views.py):
+2024-08-19 08:54:56,308 - script_logger - INFO - Line: 233 -   Defined on lines: 169, 233, 273, 299, 336, 400, 474, 556, 616, 714
+2024-08-19 08:54:56,308 - script_logger - INFO - Line: 239 -   Used on lines: 173, 181, 237, 245, 284, 285, 286, 287, 288, 303, 311, 337, 347, 348, 349, 350, 351, 357, 363, 371, 401, 425, 426, 427, 428, 429, 435, 441, 449, 475, 483, 484, 485, 486, 487, 517, 523, 531, 557, 565, 566, 567, 568, 569, 577, 583, 591, 624, 626, 635, 718, 726
+2024-08-19 08:54:56,308 - script_logger - INFO - Line: 229 - - acc_ccy (in views.py):
+2024-08-19 08:54:56,308 - script_logger - INFO - Line: 233 -   Defined on lines: 170, 234, 300, 337, 401, 475, 557, 715
+2024-08-19 08:54:56,309 - script_logger - INFO - Line: 239 -   Used on lines: 173, 237, 303, 358, 363, 436, 441, 518, 523, 578, 583, 718
+2024-08-19 08:54:56,309 - script_logger - INFO - Line: 229 - - ecbfixing (in views.py):
+2024-08-19 08:54:56,309 - script_logger - INFO - Line: 233 -   Defined on lines: 171, 235, 301, 361, 439, 521, 581, 716
+2024-08-19 08:54:56,309 - script_logger - INFO - Line: 239 -   Used on lines: 173, 199, 237, 264, 303, 329, 363, 389, 441, 467, 523, 549, 583, 609, 718, 744
+2024-08-19 08:54:56,309 - script_logger - INFO - Line: 229 - - result_dict (in views.py):
+2024-08-19 08:54:56,309 - script_logger - INFO - Line: 233 -   Defined on lines: 173, 181, 237, 245, 303, 311, 363, 371, 441, 449, 523, 531, 583, 591, 718, 726
+2024-08-19 08:54:56,309 - script_logger - INFO - Line: 239 -   Used on lines: 178, 181, 182, 188, 189, 242, 245, 248, 249, 250, 251, 253, 254, 308, 311, 314, 315, 316, 317, 319, 320, 368, 371, 374, 375, 376, 377, 379, 380, 446, 449, 452, 453, 454, 455, 457, 458, 528, 531, 534, 535, 536, 537, 539, 540, 588, 591, 594, 595, 596, 597, 599, 600, 723, 726, 729, 730, 731, 732, 734
+2024-08-19 08:54:56,309 - script_logger - INFO - Line: 229 - - create_result_dict (in views.py):
+2024-08-19 08:54:56,309 - script_logger - INFO - Line: 235 -   create_result_dict is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,309 - script_logger - INFO - Line: 239 -   Used on lines: 173, 237, 303, 363, 441, 523, 583, 718
+2024-08-19 08:54:56,310 - script_logger - INFO - Line: 229 - - str (in views.py):
+2024-08-19 08:54:56,310 - script_logger - INFO - Line: 235 -   str is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,310 - script_logger - INFO - Line: 239 -   Used on lines: 178, 242, 308, 368, 446, 528, 588, 723, 1114, 1155, 1157
+2024-08-19 08:54:56,310 - script_logger - INFO - Line: 229 - - CompleteResultDict (in views.py):
+2024-08-19 08:54:56,310 - script_logger - INFO - Line: 235 -   CompleteResultDict is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,310 - script_logger - INFO - Line: 239 -   Used on lines: 181, 245, 311, 371, 449, 531, 591, 726
+2024-08-19 08:54:56,310 - script_logger - INFO - Line: 229 - - metrics_comment (in views.py):
+2024-08-19 08:54:56,310 - script_logger - INFO - Line: 235 -   metrics_comment is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,310 - script_logger - INFO - Line: 239 -   Used on lines: 182, 253, 319, 379, 457, 539, 599, 734
+2024-08-19 08:54:56,310 - script_logger - INFO - Line: 229 - - rate_conv_description (in views.py):
+2024-08-19 08:54:56,310 - script_logger - INFO - Line: 235 -   rate_conv_description is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,311 - script_logger - INFO - Line: 239 -   Used on lines: 183, 252, 318, 378, 456, 538, 598, 733
+2024-08-19 08:54:56,311 - script_logger - INFO - Line: 229 - - render_template (in views.py):
+2024-08-19 08:54:56,311 - script_logger - INFO - Line: 235 -   render_template is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,311 - script_logger - INFO - Line: 239 -   Used on lines: 196, 255, 321, 381, 459, 541, 601, 676, 735, 1268
+2024-08-19 08:54:56,311 - script_logger - INFO - Line: 229 - - selected_option (in views.py):
+2024-08-19 08:54:56,311 - script_logger - INFO - Line: 233 -   Defined on lines: 205, 271, 615, 687
+2024-08-19 08:54:56,311 - script_logger - INFO - Line: 239 -   Used on lines: 206, 216, 218, 219, 220, 222, 228, 230, 233, 234, 272, 275, 294, 296, 299, 300, 618, 622, 624, 626, 635, 697, 699, 700, 701, 703, 709, 711, 714, 715
+2024-08-19 08:54:56,311 - script_logger - INFO - Line: 229 - - request (in views.py):
+2024-08-19 08:54:56,311 - script_logger - INFO - Line: 235 -   request is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,311 - script_logger - INFO - Line: 239 -   Used on lines: 205, 271, 408, 409, 490, 491, 615, 789, 795, 796, 797, 846, 849, 1128, 1129, 1173
+2024-08-19 08:54:56,312 - script_logger - INFO - Line: 229 - - macroflowlist (in views.py):
+2024-08-19 08:54:56,312 - script_logger - INFO - Line: 233 -   Defined on lines: 248, 314, 374, 452, 534, 594, 729
+2024-08-19 08:54:56,312 - script_logger - INFO - Line: 239 -   Used on lines: 258, 323, 383, 461, 543, 603, 738
+2024-08-19 08:54:56,312 - script_logger - INFO - Line: 229 - - list (in views.py):
+2024-08-19 08:54:56,320 - script_logger - INFO - Line: 235 -   list is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,320 - script_logger - INFO - Line: 239 -   Used on lines: 248, 250, 314, 316, 374, 376, 452, 454, 534, 536, 594, 596, 729, 731
+2024-08-19 08:54:56,320 - script_logger - INFO - Line: 229 - - macroquotelist (in views.py):
+2024-08-19 08:54:56,320 - script_logger - INFO - Line: 233 -   Defined on lines: 249, 315, 375, 453, 535, 595, 730
+2024-08-19 08:54:56,321 - script_logger - INFO - Line: 239 -   Used on lines: 259, 324, 384, 462, 544, 604, 739
+2024-08-19 08:54:56,321 - script_logger - INFO - Line: 229 - - macropositionlist (in views.py):
+2024-08-19 08:54:56,321 - script_logger - INFO - Line: 233 -   Defined on lines: 250, 316, 376, 454, 536, 596, 731
+2024-08-19 08:54:56,321 - script_logger - INFO - Line: 239 -   Used on lines: 260, 325, 385, 463, 545, 605, 740
+2024-08-19 08:54:56,321 - script_logger - INFO - Line: 229 - - depo_number (in views.py):
+2024-08-19 08:54:56,321 - script_logger - INFO - Line: 233 -   Defined on lines: 251, 317, 377, 455, 537, 597, 732
+2024-08-19 08:54:56,321 - script_logger - INFO - Line: 239 -   Used on lines: 261, 326, 386, 464, 546, 606, 741
+2024-08-19 08:54:56,322 - script_logger - INFO - Line: 229 - - user_date_list (in views.py):
+2024-08-19 08:54:56,322 - script_logger - INFO - Line: 233 -   Defined on lines: 405
+2024-08-19 08:54:56,322 - script_logger - INFO - Line: 239 -   Used on lines: 413, 418
+2024-08-19 08:54:56,322 - script_logger - INFO - Line: 229 - - user_flow_list (in views.py):
+2024-08-19 08:54:56,322 - script_logger - INFO - Line: 233 -   Defined on lines: 406
+2024-08-19 08:54:56,322 - script_logger - INFO - Line: 239 -   Used on lines: 416, 419
+2024-08-19 08:54:56,322 - script_logger - INFO - Line: 229 - - value (in views.py):
+2024-08-19 08:54:56,323 - script_logger - INFO - Line: 233 -   Defined on lines: 409, 491, 1298
+2024-08-19 08:54:56,323 - script_logger - INFO - Line: 239 -   Used on lines: 412, 413, 416, 493, 1299
+2024-08-19 08:54:56,323 - script_logger - INFO - Line: 229 - - ValueError (in views.py):
+2024-08-19 08:54:56,323 - script_logger - INFO - Line: 235 -   ValueError is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,323 - script_logger - INFO - Line: 239 -   Used on lines: 414, 1154
+2024-08-19 08:54:56,323 - script_logger - INFO - Line: 229 - - i (in views.py):
+2024-08-19 08:54:56,323 - script_logger - INFO - Line: 233 -   Defined on lines: 418
+2024-08-19 08:54:56,324 - script_logger - INFO - Line: 239 -   Used on lines: 419
+2024-08-19 08:54:56,324 - script_logger - INFO - Line: 229 - - enumerate (in views.py):
+2024-08-19 08:54:56,324 - script_logger - INFO - Line: 235 -   enumerate is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,324 - script_logger - INFO - Line: 239 -   Used on lines: 418
+2024-08-19 08:54:56,324 - script_logger - INFO - Line: 229 - - user_quotes_list (in views.py):
+2024-08-19 08:54:56,324 - script_logger - INFO - Line: 233 -   Defined on lines: 489
+2024-08-19 08:54:56,325 - script_logger - INFO - Line: 239 -   Used on lines: 493, 504
+2024-08-19 08:54:56,325 - script_logger - INFO - Line: 229 - - i_user_quotes_list (in views.py):
+2024-08-19 08:54:56,325 - script_logger - INFO - Line: 233 -   Defined on lines: 496, 505
+2024-08-19 08:54:56,325 - script_logger - INFO - Line: 239 -   Used on lines: 504, 505
+2024-08-19 08:54:56,325 - script_logger - INFO - Line: 229 - - temp (in views.py):
+2024-08-19 08:54:56,325 - script_logger - INFO - Line: 233 -   Defined on lines: 497
+2024-08-19 08:54:56,325 - script_logger - INFO - Line: 239 -   Used on lines: 498, 508
+2024-08-19 08:54:56,325 - script_logger - INFO - Line: 229 - - x (in views.py):
+2024-08-19 08:54:56,326 - script_logger - INFO - Line: 233 -   Defined on lines: 497
+2024-08-19 08:54:56,326 - script_logger - INFO - Line: 239 -   Used on lines: 497, 497, 497, 497, 497
+2024-08-19 08:54:56,326 - script_logger - INFO - Line: 229 - - user_zerocurve_str_list (in views.py):
+2024-08-19 08:54:56,326 - script_logger - INFO - Line: 233 -   Defined on lines: 508
+2024-08-19 08:54:56,326 - script_logger - INFO - Line: 239 -   Used on lines: 511, 526
+2024-08-19 08:54:56,326 - script_logger - INFO - Line: 229 - - zero_curve_discount_factor (in views.py):
+2024-08-19 08:54:56,326 - script_logger - INFO - Line: 235 -   zero_curve_discount_factor is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,326 - script_logger - INFO - Line: 239 -   Used on lines: 508
+2024-08-19 08:54:56,327 - script_logger - INFO - Line: 229 - - totalnpv (in views.py):
+2024-08-19 08:54:56,327 - script_logger - INFO - Line: 233 -   Defined on lines: 617
+2024-08-19 08:54:56,327 - script_logger - INFO - Line: 239 -   Used on lines: 628, 637
+2024-08-19 08:54:56,327 - script_logger - INFO - Line: 229 - - float (in views.py):
+2024-08-19 08:54:56,327 - script_logger - INFO - Line: 235 -   float is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,327 - script_logger - INFO - Line: 239 -   Used on lines: 617, 629, 630, 631, 638, 639, 1067
+2024-08-19 08:54:56,327 - script_logger - INFO - Line: 229 - - ecbdata (in views.py):
+2024-08-19 08:54:56,327 - script_logger - INFO - Line: 233 -   Defined on lines: 619
+2024-08-19 08:54:56,328 - script_logger - INFO - Line: 239 -   Used on lines: 629, 630, 631, 638, 639
+2024-08-19 08:54:56,328 - script_logger - INFO - Line: 229 - - usdspotpos (in views.py):
+2024-08-19 08:54:56,328 - script_logger - INFO - Line: 233 -   Defined on lines: 627, 633, 636, 641
+2024-08-19 08:54:56,328 - script_logger - INFO - Line: 239 -   Used on lines: 633, 634, 641, 642
+2024-08-19 08:54:56,328 - script_logger - INFO - Line: 229 - - fig (in views.py):
+2024-08-19 08:54:56,328 - script_logger - INFO - Line: 233 -   Defined on lines: 652
+2024-08-19 08:54:56,328 - script_logger - INFO - Line: 239 -   Used on lines: 657
+2024-08-19 08:54:56,328 - script_logger - INFO - Line: 229 - - generate_plotly_graph (in views.py):
+2024-08-19 08:54:56,328 - script_logger - INFO - Line: 235 -   generate_plotly_graph is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,329 - script_logger - INFO - Line: 239 -   Used on lines: 652
+2024-08-19 08:54:56,329 - script_logger - INFO - Line: 229 - - output_path (in views.py):
+2024-08-19 08:54:56,329 - script_logger - INFO - Line: 233 -   Defined on lines: 654
+2024-08-19 08:54:56,329 - script_logger - INFO - Line: 239 -   Used on lines: 657
+2024-08-19 08:54:56,329 - script_logger - INFO - Line: 229 - - url_for (in views.py):
+2024-08-19 08:54:56,329 - script_logger - INFO - Line: 235 -   url_for is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,329 - script_logger - INFO - Line: 239 -   Used on lines: 660
+2024-08-19 08:54:56,329 - script_logger - INFO - Line: 229 - - graph_path (in views.py):
+2024-08-19 08:54:56,330 - script_logger - INFO - Line: 233 -   Defined on lines: 665
+2024-08-19 08:54:56,330 - script_logger - INFO - Line: 239 -   Used on lines: 666, 667
+2024-08-19 08:54:56,330 - script_logger - INFO - Line: 229 - - filename (in views.py):
+2024-08-19 08:54:56,330 - script_logger - INFO - Line: 233 -   Defined on lines: 872
+2024-08-19 08:54:56,330 - script_logger - INFO - Line: 239 -   Used on lines: 782, 783, 874, 876, 907, 975, 984, 993
+2024-08-19 08:54:56,330 - script_logger - INFO - Line: 229 - - visitor_email (in views.py):
+2024-08-19 08:54:56,330 - script_logger - INFO - Line: 233 -   Defined on lines: 789
+2024-08-19 08:54:56,330 - script_logger - INFO - Line: 239 -   Used on lines: 792, 798, 814, 826, 829
+2024-08-19 08:54:56,331 - script_logger - INFO - Line: 229 - - emailinfo (in views.py):
+2024-08-19 08:54:56,331 - script_logger - INFO - Line: 233 -   Defined on lines: 792, 852
+2024-08-19 08:54:56,331 - script_logger - INFO - Line: 239 -   Used on lines: 793, 853
+2024-08-19 08:54:56,331 - script_logger - INFO - Line: 229 - - validate_email (in views.py):
+2024-08-19 08:54:56,331 - script_logger - INFO - Line: 235 -   validate_email is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,331 - script_logger - INFO - Line: 239 -   Used on lines: 792, 852
+2024-08-19 08:54:56,331 - script_logger - INFO - Line: 229 - - email (in views.py):
+2024-08-19 08:54:56,331 - script_logger - INFO - Line: 233 -   Defined on lines: 793, 853
+2024-08-19 08:54:56,332 - script_logger - INFO - Line: 239 -   Used on lines: 794
+2024-08-19 08:54:56,332 - script_logger - INFO - Line: 229 - - print (in views.py):
+2024-08-19 08:54:56,332 - script_logger - INFO - Line: 235 -   print is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,332 - script_logger - INFO - Line: 239 -   Used on lines: 794
+2024-08-19 08:54:56,332 - script_logger - INFO - Line: 229 - - demo_rteconv (in views.py):
+2024-08-19 08:54:56,332 - script_logger - INFO - Line: 233 -   Defined on lines: 795
+2024-08-19 08:54:56,332 - script_logger - INFO - Line: 239 -   Used on lines: 799
+2024-08-19 08:54:56,332 - script_logger - INFO - Line: 229 - - demo_accccy (in views.py):
+2024-08-19 08:54:56,332 - script_logger - INFO - Line: 233 -   Defined on lines: 796
+2024-08-19 08:54:56,332 - script_logger - INFO - Line: 239 -   Used on lines: 800
+2024-08-19 08:54:56,333 - script_logger - INFO - Line: 229 - - demo_file_type (in views.py):
+2024-08-19 08:54:56,333 - script_logger - INFO - Line: 233 -   Defined on lines: 797
+2024-08-19 08:54:56,333 - script_logger - INFO - Line: 239 -   Used on lines: 801
+2024-08-19 08:54:56,333 - script_logger - INFO - Line: 229 - - main_demo (in views.py):
+2024-08-19 08:54:56,333 - script_logger - INFO - Line: 235 -   main_demo is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,333 - script_logger - INFO - Line: 239 -   Used on lines: 802
+2024-08-19 08:54:56,333 - script_logger - INFO - Line: 229 - - status_message (in views.py):
+2024-08-19 08:54:56,333 - script_logger - INFO - Line: 233 -   Defined on lines: 814
+2024-08-19 08:54:56,333 - script_logger - INFO - Line: 239 -   Used on lines: 823
+2024-08-19 08:54:56,333 - script_logger - INFO - Line: 229 - - EmailNotValidError (in views.py):
+2024-08-19 08:54:56,333 - script_logger - INFO - Line: 235 -   EmailNotValidError is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,334 - script_logger - INFO - Line: 239 -   Used on lines: 825, 855
+2024-08-19 08:54:56,334 - script_logger - INFO - Line: 229 - - service_message (in views.py):
+2024-08-19 08:54:56,334 - script_logger - INFO - Line: 233 -   Defined on lines: 827, 829, 857, 863, 909, 916, 923, 930, 937, 976, 985, 994, 1032, 1040
+2024-08-19 08:54:56,334 - script_logger - INFO - Line: 239 -   Used on lines: 830, 868, 914, 921, 928, 935, 942, 982, 991, 1000, 1038, 1045
+2024-08-19 08:54:56,334 - script_logger - INFO - Line: 229 - - longest_date_usd (in views.py):
+2024-08-19 08:54:56,334 - script_logger - INFO - Line: 233 -   Defined on lines: 842
+2024-08-19 08:54:56,334 - script_logger - INFO - Line: 239 -   Used on lines: 983, 988
+2024-08-19 08:54:56,334 - script_logger - INFO - Line: 229 - - longest_date_eur (in views.py):
+2024-08-19 08:54:56,334 - script_logger - INFO - Line: 233 -   Defined on lines: 843
+2024-08-19 08:54:56,334 - script_logger - INFO - Line: 239 -   Used on lines: 992, 997
+2024-08-19 08:54:56,334 - script_logger - INFO - Line: 229 - - file (in views.py):
+2024-08-19 08:54:56,334 - script_logger - INFO - Line: 233 -   Defined on lines: 846
+2024-08-19 08:54:56,335 - script_logger - INFO - Line: 239 -   Used on lines: 871, 871, 872, 874
+2024-08-19 08:54:56,335 - script_logger - INFO - Line: 229 - - customer_email (in views.py):
+2024-08-19 08:54:56,335 - script_logger - INFO - Line: 233 -   Defined on lines: 849, 1140, 1174
+2024-08-19 08:54:56,335 - script_logger - INFO - Line: 239 -   Used on lines: 852, 854, 856, 865, 1141, 1142, 1198, 1200, 1272
+2024-08-19 08:54:56,335 - script_logger - INFO - Line: 229 - - allowed_file (in views.py):
+2024-08-19 08:54:56,335 - script_logger - INFO - Line: 235 -   allowed_file is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,335 - script_logger - INFO - Line: 239 -   Used on lines: 871
+2024-08-19 08:54:56,335 - script_logger - INFO - Line: 229 - - secure_filename (in views.py):
+2024-08-19 08:54:56,335 - script_logger - INFO - Line: 235 -   secure_filename is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,335 - script_logger - INFO - Line: 239 -   Used on lines: 872
+2024-08-19 08:54:56,335 - script_logger - INFO - Line: 229 - - customer_uploads_path (in views.py):
+2024-08-19 08:54:56,336 - script_logger - INFO - Line: 233 -   Defined on lines: 873
+2024-08-19 08:54:56,336 - script_logger - INFO - Line: 239 -   Used on lines: 874, 876, 907, 975, 984, 993
+2024-08-19 08:54:56,336 - script_logger - INFO - Line: 229 - - open (in views.py):
+2024-08-19 08:54:56,336 - script_logger - INFO - Line: 235 -   open is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,336 - script_logger - INFO - Line: 239 -   Used on lines: 876
+2024-08-19 08:54:56,336 - script_logger - INFO - Line: 229 - - uploaded_file (in views.py):
+2024-08-19 08:54:56,336 - script_logger - INFO - Line: 233 -   Defined on lines: 876
+2024-08-19 08:54:56,336 - script_logger - INFO - Line: 239 -   Used on lines: 877
+2024-08-19 08:54:56,336 - script_logger - INFO - Line: 229 - - file_contents (in views.py):
+2024-08-19 08:54:56,336 - script_logger - INFO - Line: 233 -   Defined on lines: 877
+2024-08-19 08:54:56,336 - script_logger - INFO - Line: 239 -   Used on lines: 884, 955
+2024-08-19 08:54:56,337 - script_logger - INFO - Line: 229 - - email_metadata (in views.py):
+2024-08-19 08:54:56,337 - script_logger - INFO - Line: 233 -   Defined on lines: 880, 888
+2024-08-19 08:54:56,337 - script_logger - INFO - Line: 239 -   Used on lines: 903, 905, 908, 936
+2024-08-19 08:54:56,337 - script_logger - INFO - Line: 229 - - generator_metadata (in views.py):
+2024-08-19 08:54:56,337 - script_logger - INFO - Line: 233 -   Defined on lines: 881, 893
+2024-08-19 08:54:56,337 - script_logger - INFO - Line: 239 -   Used on lines: 903, 915
+2024-08-19 08:54:56,337 - script_logger - INFO - Line: 229 - - accounting_ccy_metadata (in views.py):
+2024-08-19 08:54:56,337 - script_logger - INFO - Line: 233 -   Defined on lines: 882, 897
+2024-08-19 08:54:56,337 - script_logger - INFO - Line: 239 -   Used on lines: 904, 922
+2024-08-19 08:54:56,337 - script_logger - INFO - Line: 229 - - error_in_data_separator (in views.py):
+2024-08-19 08:54:56,337 - script_logger - INFO - Line: 233 -   Defined on lines: 883, 900
+2024-08-19 08:54:56,338 - script_logger - INFO - Line: 239 -   Used on lines: 904, 929, 932
+2024-08-19 08:54:56,338 - script_logger - INFO - Line: 229 - - line (in views.py):
+2024-08-19 08:54:56,338 - script_logger - INFO - Line: 233 -   Defined on lines: 884, 955
+2024-08-19 08:54:56,338 - script_logger - INFO - Line: 239 -   Used on lines: 885, 885, 886, 890, 890, 891, 894, 894, 895, 898, 898, 899, 956, 956, 958
+2024-08-19 08:54:56,338 - script_logger - INFO - Line: 229 - - parts (in views.py):
+2024-08-19 08:54:56,338 - script_logger - INFO - Line: 233 -   Defined on lines: 886, 891, 895, 958
+2024-08-19 08:54:56,338 - script_logger - INFO - Line: 239 -   Used on lines: 887, 888, 892, 893, 896, 897, 959, 960, 961
+2024-08-19 08:54:56,338 - script_logger - INFO - Line: 229 - - len (in views.py):
+2024-08-19 08:54:56,338 - script_logger - INFO - Line: 235 -   len is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,338 - script_logger - INFO - Line: 239 -   Used on lines: 887, 892, 896, 959, 1003
+2024-08-19 08:54:56,338 - script_logger - INFO - Line: 229 - - current_date (in views.py):
+2024-08-19 08:54:56,338 - script_logger - INFO - Line: 233 -   Defined on lines: 947
+2024-08-19 08:54:56,339 - script_logger - INFO - Line: 239 -   Used on lines: 948, 949, 950, 951, 964, 968, 974, 974, 979
+2024-08-19 08:54:56,339 - script_logger - INFO - Line: 229 - - eur_max_date (in views.py):
+2024-08-19 08:54:56,339 - script_logger - INFO - Line: 233 -   Defined on lines: 948, 967
+2024-08-19 08:54:56,339 - script_logger - INFO - Line: 239 -   Used on lines: 966, 992
+2024-08-19 08:54:56,339 - script_logger - INFO - Line: 229 - - usd_max_date (in views.py):
+2024-08-19 08:54:56,339 - script_logger - INFO - Line: 233 -   Defined on lines: 949, 971
+2024-08-19 08:54:56,339 - script_logger - INFO - Line: 239 -   Used on lines: 970, 983
+2024-08-19 08:54:56,339 - script_logger - INFO - Line: 229 - - eur_min_date (in views.py):
+2024-08-19 08:54:56,339 - script_logger - INFO - Line: 233 -   Defined on lines: 950, 965
+2024-08-19 08:54:56,339 - script_logger - INFO - Line: 239 -   Used on lines: 974
+2024-08-19 08:54:56,340 - script_logger - INFO - Line: 229 - - usd_min_date (in views.py):
+2024-08-19 08:54:56,340 - script_logger - INFO - Line: 233 -   Defined on lines: 951, 969
+2024-08-19 08:54:56,340 - script_logger - INFO - Line: 239 -   Used on lines: 974
+2024-08-19 08:54:56,340 - script_logger - INFO - Line: 229 - - num_lines (in views.py):
+2024-08-19 08:54:56,340 - script_logger - INFO - Line: 233 -   Defined on lines: 953, 957
+2024-08-19 08:54:56,340 - script_logger - INFO - Line: 239 -   Used on lines: 1003, 1004, 1007
+2024-08-19 08:54:56,340 - script_logger - INFO - Line: 229 - - currency_list (in views.py):
+2024-08-19 08:54:56,340 - script_logger - INFO - Line: 233 -   Defined on lines: 954
+2024-08-19 08:54:56,340 - script_logger - INFO - Line: 239 -   Used on lines: 962, 963, 1003
+2024-08-19 08:54:56,340 - script_logger - INFO - Line: 229 - - linedate (in views.py):
+2024-08-19 08:54:56,340 - script_logger - INFO - Line: 233 -   Defined on lines: 960
+2024-08-19 08:54:56,341 - script_logger - INFO - Line: 239 -   Used on lines: 964, 965, 966, 967, 968, 969, 970, 971
+2024-08-19 08:54:56,341 - script_logger - INFO - Line: 229 - - lineccy (in views.py):
+2024-08-19 08:54:56,341 - script_logger - INFO - Line: 233 -   Defined on lines: 961
+2024-08-19 08:54:56,341 - script_logger - INFO - Line: 239 -   Used on lines: 962, 963, 964, 966, 968, 970
+2024-08-19 08:54:56,341 - script_logger - INFO - Line: 229 - - servicefee (in views.py):
+2024-08-19 08:54:56,341 - script_logger - INFO - Line: 233 -   Defined on lines: 1004, 1007
+2024-08-19 08:54:56,341 - script_logger - INFO - Line: 239 -   Used on lines: 1016, 1035
+2024-08-19 08:54:56,341 - script_logger - INFO - Line: 229 - - servicefee_base (in views.py):
+2024-08-19 08:54:56,341 - script_logger - INFO - Line: 233 -   Defined on lines: 1005, 1008
+2024-08-19 08:54:56,341 - script_logger - INFO - Line: 239 -   Used on lines: 1035
+2024-08-19 08:54:56,341 - script_logger - INFO - Line: 229 - - email_to_store (in views.py):
+2024-08-19 08:54:56,342 - script_logger - INFO - Line: 233 -   Defined on lines: 1011
+2024-08-19 08:54:56,342 - script_logger - INFO - Line: 239 -   Used on lines: 1014
+2024-08-19 08:54:56,342 - script_logger - INFO - Line: 229 - - email_data (in views.py):
+2024-08-19 08:54:56,342 - script_logger - INFO - Line: 233 -   Defined on lines: 1012
+2024-08-19 08:54:56,342 - script_logger - INFO - Line: 239 -   Used on lines: 1020
+2024-08-19 08:54:56,342 - script_logger - INFO - Line: 229 - - time (in views.py):
+2024-08-19 08:54:56,342 - script_logger - INFO - Line: 235 -   time is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,342 - script_logger - INFO - Line: 239 -   Used on lines: 1015
+2024-08-19 08:54:56,342 - script_logger - INFO - Line: 229 - - store_emails_instance (in views.py):
+2024-08-19 08:54:56,342 - script_logger - INFO - Line: 233 -   Defined on lines: 1020
+2024-08-19 08:54:56,342 - script_logger - INFO - Line: 239 -   Used on lines: 1023
+2024-08-19 08:54:56,343 - script_logger - INFO - Line: 229 - - StoreServiceInfoInRedis (in views.py):
+2024-08-19 08:54:56,343 - script_logger - INFO - Line: 235 -   StoreServiceInfoInRedis is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,343 - script_logger - INFO - Line: 239 -   Used on lines: 1020, 1062, 1131, 1180, 1272
+2024-08-19 08:54:56,343 - script_logger - INFO - Line: 229 - - main_service (in views.py):
+2024-08-19 08:54:56,343 - script_logger - INFO - Line: 235 -   main_service is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,343 - script_logger - INFO - Line: 239 -   Used on lines: 1028
+2024-08-19 08:54:56,343 - script_logger - INFO - Line: 229 - - ngrok_base_url (in views.py):
+2024-08-19 08:54:56,343 - script_logger - INFO - Line: 233 -   Defined on lines: 1055
+2024-08-19 08:54:56,343 - script_logger - INFO - Line: 239 -   Used on lines: 1096, 1097
+2024-08-19 08:54:56,343 - script_logger - INFO - Line: 229 - - flask_session_email (in views.py):
+2024-08-19 08:54:56,343 - script_logger - INFO - Line: 233 -   Defined on lines: 1060
+2024-08-19 08:54:56,344 - script_logger - INFO - Line: 239 -   Used on lines: 1063, 1071, 1078, 1082
+2024-08-19 08:54:56,344 - script_logger - INFO - Line: 229 - - store_service (in views.py):
+2024-08-19 08:54:56,344 - script_logger - INFO - Line: 233 -   Defined on lines: 1062, 1131
+2024-08-19 08:54:56,344 - script_logger - INFO - Line: 239 -   Used on lines: 1063, 1150
+2024-08-19 08:54:56,344 - script_logger - INFO - Line: 229 - - email_data_retrieved (in views.py):
+2024-08-19 08:54:56,344 - script_logger - INFO - Line: 233 -   Defined on lines: 1063, 1272
+2024-08-19 08:54:56,344 - script_logger - INFO - Line: 239 -   Used on lines: 1067, 1275, 1276
+2024-08-19 08:54:56,344 - script_logger - INFO - Line: 229 - - amount_to_pay (in views.py):
+2024-08-19 08:54:56,344 - script_logger - INFO - Line: 233 -   Defined on lines: 1067, 1275
+2024-08-19 08:54:56,344 - script_logger - INFO - Line: 239 -   Used on lines: 1090, 1277
+2024-08-19 08:54:56,345 - script_logger - INFO - Line: 229 - - main_service_after_payment_bypassed (in views.py):
+2024-08-19 08:54:56,345 - script_logger - INFO - Line: 235 -   main_service_after_payment_bypassed is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,345 - script_logger - INFO - Line: 239 -   Used on lines: 1071
+2024-08-19 08:54:56,345 - script_logger - INFO - Line: 229 - - render_template_string (in views.py):
+2024-08-19 08:54:56,345 - script_logger - INFO - Line: 235 -   render_template_string is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,345 - script_logger - INFO - Line: 239 -   Used on lines: 1072, 1101, 1112, 1202, 1209
+2024-08-19 08:54:56,345 - script_logger - INFO - Line: 229 - - checkout_session (in views.py):
+2024-08-19 08:54:56,345 - script_logger - INFO - Line: 233 -   Defined on lines: 1081
+2024-08-19 08:54:56,345 - script_logger - INFO - Line: 239 -   Used on lines: 1109
+2024-08-19 08:54:56,345 - script_logger - INFO - Line: 229 - - int (in views.py):
+2024-08-19 08:54:56,345 - script_logger - INFO - Line: 235 -   int is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,346 - script_logger - INFO - Line: 239 -   Used on lines: 1090
+2024-08-19 08:54:56,346 - script_logger - INFO - Line: 229 - - Exception (in views.py):
+2024-08-19 08:54:56,346 - script_logger - INFO - Line: 235 -   Exception is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,346 - script_logger - INFO - Line: 239 -   Used on lines: 1111
+2024-08-19 08:54:56,346 - script_logger - INFO - Line: 229 - - e (in views.py):
+2024-08-19 08:54:56,346 - script_logger - INFO - Line: 235 -   e is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,346 - script_logger - INFO - Line: 239 -   Used on lines: 1114, 1155, 1157
+2024-08-19 08:54:56,346 - script_logger - INFO - Line: 229 - - payload (in views.py):
+2024-08-19 08:54:56,346 - script_logger - INFO - Line: 233 -   Defined on lines: 1128
+2024-08-19 08:54:56,346 - script_logger - INFO - Line: 239 -   Used on lines: 1135
+2024-08-19 08:54:56,346 - script_logger - INFO - Line: 229 - - sig_header (in views.py):
+2024-08-19 08:54:56,347 - script_logger - INFO - Line: 233 -   Defined on lines: 1129
+2024-08-19 08:54:56,347 - script_logger - INFO - Line: 239 -   Used on lines: 1135
+2024-08-19 08:54:56,347 - script_logger - INFO - Line: 229 - - event (in views.py):
+2024-08-19 08:54:56,347 - script_logger - INFO - Line: 233 -   Defined on lines: 1134
+2024-08-19 08:54:56,347 - script_logger - INFO - Line: 239 -   Used on lines: 1138, 1139
+2024-08-19 08:54:56,347 - script_logger - INFO - Line: 229 - - logger (in views.py):
+2024-08-19 08:54:56,347 - script_logger - INFO - Line: 235 -   logger is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,347 - script_logger - INFO - Line: 239 -   Used on lines: 1144, 1208, 1213, 1216, 1276, 1281
+2024-08-19 08:54:56,347 - script_logger - INFO - Line: 229 - - session_id (in views.py):
+2024-08-19 08:54:56,347 - script_logger - INFO - Line: 233 -   Defined on lines: 1147, 1173
+2024-08-19 08:54:56,347 - script_logger - INFO - Line: 239 -   Used on lines: 1150, 1183
+2024-08-19 08:54:56,347 - script_logger - INFO - Line: 229 - - store_emails (in views.py):
+2024-08-19 08:54:56,348 - script_logger - INFO - Line: 233 -   Defined on lines: 1180
+2024-08-19 08:54:56,348 - script_logger - INFO - Line: 239 -   Used on lines: 1184, 1189, 1196
+2024-08-19 08:54:56,348 - script_logger - INFO - Line: 229 - - redis_key (in views.py):
+2024-08-19 08:54:56,348 - script_logger - INFO - Line: 233 -   Defined on lines: 1183
+2024-08-19 08:54:56,348 - script_logger - INFO - Line: 239 -   Used on lines: 1184
+2024-08-19 08:54:56,348 - script_logger - INFO - Line: 229 - - keys (in views.py):
+2024-08-19 08:54:56,348 - script_logger - INFO - Line: 233 -   Defined on lines: 1184
+2024-08-19 08:54:56,348 - script_logger - INFO - Line: 239 -   Used on lines: 1187, 1189, 1196
+2024-08-19 08:54:56,348 - script_logger - INFO - Line: 229 - - raw_data (in views.py):
+2024-08-19 08:54:56,348 - script_logger - INFO - Line: 233 -   Defined on lines: 1189
+2024-08-19 08:54:56,348 - script_logger - INFO - Line: 239 -   Used on lines: 1190, 1191
+2024-08-19 08:54:56,349 - script_logger - INFO - Line: 229 - - stored_data (in views.py):
+2024-08-19 08:54:56,349 - script_logger - INFO - Line: 233 -   Defined on lines: 1191
+2024-08-19 08:54:56,349 - script_logger - INFO - Line: 239 -   Used on lines: 1192
+2024-08-19 08:54:56,349 - script_logger - INFO - Line: 229 - - stored_email (in views.py):
+2024-08-19 08:54:56,349 - script_logger - INFO - Line: 233 -   Defined on lines: 1192
+2024-08-19 08:54:56,349 - script_logger - INFO - Line: 239 -   Used on lines: 1198, 1205
+2024-08-19 08:54:56,349 - script_logger - INFO - Line: 229 - - main_service_after_payment (in views.py):
+2024-08-19 08:54:56,349 - script_logger - INFO - Line: 235 -   main_service_after_payment is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,349 - script_logger - INFO - Line: 239 -   Used on lines: 1200
+2024-08-19 08:54:56,349 - script_logger - INFO - Line: 229 - - email_details (in views.py):
+2024-08-19 08:54:56,349 - script_logger - INFO - Line: 233 -   Defined on lines: 1272
+2024-08-19 08:54:56,350 - script_logger - INFO - Line: 239 -   Used on lines: 1274
+2024-08-19 08:54:56,350 - script_logger - INFO - Line: 229 - - html_string (in views.py):
+2024-08-19 08:54:56,350 - script_logger - INFO - Line: 233 -   Defined on lines: 1287, 1288, 1289, 1290, 1291, 1292, 1293, 1294, 1295, 1296, 1299, 1301, 1302, 1303
+2024-08-19 08:54:56,350 - script_logger - INFO - Line: 239 -   Used on lines: 1305
+2024-08-19 08:54:56,350 - script_logger - INFO - Line: 229 - - response (in views.py):
+2024-08-19 08:54:56,350 - script_logger - INFO - Line: 233 -   Defined on lines: 1305
+2024-08-19 08:54:56,350 - script_logger - INFO - Line: 239 -   Used on lines: 1306, 1307
+2024-08-19 08:54:56,350 - script_logger - INFO - Line: 229 - - make_response (in views.py):
+2024-08-19 08:54:56,350 - script_logger - INFO - Line: 235 -   make_response is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,350 - script_logger - INFO - Line: 239 -   Used on lines: 1305
+2024-08-19 08:54:56,350 - script_logger - INFO - Line: 229 - - app (in views.py):
+2024-08-19 08:54:56,350 - script_logger - INFO - Line: 233 -   Defined on lines: 1313
+2024-08-19 08:54:56,351 - script_logger - INFO - Line: 239 -   Used on lines: 1315
+2024-08-19 08:54:56,351 - script_logger - INFO - Line: 229 - - create_app (in views.py):
+2024-08-19 08:54:56,351 - script_logger - INFO - Line: 235 -   create_app is not defined in this file; likely imported from elsewhere.
+2024-08-19 08:54:56,351 - script_logger - INFO - Line: 239 -   Used on lines: 1313
+2024-08-19 08:54:56,351 - script_logger - INFO - Line: 243 - 
+Function Calls:
+2024-08-19 08:54:56,351 - script_logger - INFO - Line: 246 - - Blueprint: called on lines 52 in views.py
+2024-08-19 08:54:56,351 - script_logger - INFO - Line: 246 - - get_environment: called on lines 54 in views.py
+2024-08-19 08:54:56,351 - script_logger - INFO - Line: 246 - - get_redis_connection: called on lines 55 in views.py
+2024-08-19 08:54:56,351 - script_logger - INFO - Line: 246 - - jsonify: called on lines 102, 108, 124, 660, 1152, 1155, 1157 in views.py
+2024-08-19 08:54:56,351 - script_logger - INFO - Line: 246 - - generate_modals: called on lines 123 in views.py
+2024-08-19 08:54:56,352 - script_logger - INFO - Line: 246 - - get_from_redis: called on lines 153, 155, 156, 157, 159, 171, 216, 218, 219, 220, 222, 235, 284, 285, 286, 287, 288, 301, 347, 348, 349, 350, 351, 361, 425, 426, 427, 428, 429, 439, 483, 484, 485, 486, 487, 521, 565, 566, 567, 568, 569, 581, 619, 697, 699, 700, 701, 703, 716, 842, 843 in views.py
+2024-08-19 08:54:56,352 - script_logger - INFO - Line: 246 - - deepcopy: called on lines 160, 223, 289, 352, 430, 511, 571, 704 in views.py
+2024-08-19 08:54:56,352 - script_logger - INFO - Line: 246 - - mainflowpos: called on lines 165, 228, 294, 357, 435, 517, 577, 709 in views.py
+2024-08-19 08:54:56,352 - script_logger - INFO - Line: 246 - - create_result_dict: called on lines 173, 237, 303, 363, 441, 523, 583, 718 in views.py
+2024-08-19 08:54:56,352 - script_logger - INFO - Line: 246 - - str: called on lines 178, 242, 308, 368, 446, 528, 588, 723, 1114, 1155, 1157 in views.py
+2024-08-19 08:54:56,352 - script_logger - INFO - Line: 246 - - CompleteResultDict: called on lines 181, 245, 311, 371, 449, 531, 591, 726 in views.py
+2024-08-19 08:54:56,352 - script_logger - INFO - Line: 246 - - metrics_comment: called on lines 182, 253, 319, 379, 457, 539, 599, 734 in views.py
+2024-08-19 08:54:56,352 - script_logger - INFO - Line: 246 - - rate_conv_description: called on lines 183, 252, 318, 378, 456, 538, 598, 733 in views.py
+2024-08-19 08:54:56,352 - script_logger - INFO - Line: 246 - - render_template: called on lines 196, 255, 321, 381, 459, 541, 601, 676, 735, 1268 in views.py
+2024-08-19 08:54:56,352 - script_logger - INFO - Line: 246 - - list: called on lines 248, 250, 314, 316, 374, 376, 452, 454, 534, 536, 594, 596, 729, 731 in views.py
+2024-08-19 08:54:56,353 - script_logger - INFO - Line: 246 - - enumerate: called on lines 418 in views.py
+2024-08-19 08:54:56,353 - script_logger - INFO - Line: 246 - - zero_curve_discount_factor: called on lines 508 in views.py
+2024-08-19 08:54:56,353 - script_logger - INFO - Line: 246 - - float: called on lines 617, 629, 630, 631, 638, 639, 1067 in views.py
+2024-08-19 08:54:56,353 - script_logger - INFO - Line: 246 - - generate_plotly_graph: called on lines 652 in views.py
+2024-08-19 08:54:56,353 - script_logger - INFO - Line: 246 - - url_for: called on lines 660 in views.py
+2024-08-19 08:54:56,353 - script_logger - INFO - Line: 246 - - validate_email: called on lines 792, 852 in views.py
+2024-08-19 08:54:56,353 - script_logger - INFO - Line: 246 - - print: called on lines 794 in views.py
+2024-08-19 08:54:56,353 - script_logger - INFO - Line: 246 - - main_demo: called on lines 802 in views.py
+2024-08-19 08:54:56,353 - script_logger - INFO - Line: 246 - - allowed_file: called on lines 871 in views.py
+2024-08-19 08:54:56,353 - script_logger - INFO - Line: 246 - - secure_filename: called on lines 872 in views.py
+2024-08-19 08:54:56,353 - script_logger - INFO - Line: 246 - - open: called on lines 876 in views.py
+2024-08-19 08:54:56,354 - script_logger - INFO - Line: 246 - - len: called on lines 887, 892, 896, 959, 1003 in views.py
+2024-08-19 08:54:56,354 - script_logger - INFO - Line: 246 - - StoreServiceInfoInRedis: called on lines 1020, 1062, 1131, 1180 in views.py
+2024-08-19 08:54:56,354 - script_logger - INFO - Line: 246 - - main_service: called on lines 1028 in views.py
+2024-08-19 08:54:56,354 - script_logger - INFO - Line: 246 - - main_service_after_payment_bypassed: called on lines 1071 in views.py
+2024-08-19 08:54:56,354 - script_logger - INFO - Line: 246 - - render_template_string: called on lines 1072, 1101, 1112, 1202, 1209 in views.py
+2024-08-19 08:54:56,354 - script_logger - INFO - Line: 246 - - int: called on lines 1090 in views.py
+2024-08-19 08:54:56,354 - script_logger - INFO - Line: 246 - - main_service_after_payment: called on lines 1200 in views.py
+2024-08-19 08:54:56,354 - script_logger - INFO - Line: 246 - - make_response: called on lines 1305 in views.py
+2024-08-19 08:54:56,354 - script_logger - INFO - Line: 246 - - create_app: called on lines 1313 in views.py
